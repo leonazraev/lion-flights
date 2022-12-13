@@ -20,7 +20,7 @@
     "country-data": "0.0.31",
     "country-reverse-geocoding": "^0.2.2",
     "crypto": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.5.0",
     "helmet": "^3.23.3",
     "jsonwebtoken": "^8.5.1",
